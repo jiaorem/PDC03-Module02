@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\PDC03_MODULE02\PDC03_MODULE02\PDC03_MODULE02\bin\Debug\netstandard2.0\PDC03_MODULE02.deps.json
+C:\Users\User\source\repos\PDC03_MODULE02\PDC03_MODULE02\PDC03_MODULE02\bin\Debug\netstandard2.0\PDC03_MODULE02.dll
+C:\Users\User\source\repos\PDC03_MODULE02\PDC03_MODULE02\PDC03_MODULE02\bin\Debug\netstandard2.0\PDC03_MODULE02.pdb
+C:\Users\User\source\repos\PDC03_MODULE02\PDC03_MODULE02\PDC03_MODULE02\obj\Debug\netstandard2.0\PDC03_MODULE02.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\PDC03_MODULE02\PDC03_MODULE02\PDC03_MODULE02\obj\Debug\netstandard2.0\PDC03_MODULE02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\PDC03_MODULE02\PDC03_MODULE02\PDC03_MODULE02\obj\Debug\netstandard2.0\Activity1.xaml.g.cs
+C:\Users\User\source\repos\PDC03_MODULE02\PDC03_MODULE02\PDC03_MODULE02\obj\Debug\netstandard2.0\Activity2.xaml.g.cs
+C:\Users\User\source\repos\PDC03_MODULE02\PDC03_MODULE02\PDC03_MODULE02\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\source\repos\PDC03_MODULE02\PDC03_MODULE02\PDC03_MODULE02\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User\source\repos\PDC03_MODULE02\PDC03_MODULE02\PDC03_MODULE02\obj\Debug\netstandard2.0\PDC03_MODULE02.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PDC03_MODULE02\PDC03_MODULE02\PDC03_MODULE02\obj\Debug\netstandard2.0\PDC03_MODULE02.AssemblyInfo.cs
+C:\Users\User\source\repos\PDC03_MODULE02\PDC03_MODULE02\PDC03_MODULE02\obj\Debug\netstandard2.0\PDC03_MODULE02.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PDC03_MODULE02\PDC03_MODULE02\PDC03_MODULE02\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User\source\repos\PDC03_MODULE02\PDC03_MODULE02\PDC03_MODULE02\obj\Debug\netstandard2.0\PDC03_MODULE02.dll
+C:\Users\User\source\repos\PDC03_MODULE02\PDC03_MODULE02\PDC03_MODULE02\obj\Debug\netstandard2.0\refint\PDC03_MODULE02.dll
+C:\Users\User\source\repos\PDC03_MODULE02\PDC03_MODULE02\PDC03_MODULE02\obj\Debug\netstandard2.0\PDC03_MODULE02.pdb
+C:\Users\User\source\repos\PDC03_MODULE02\PDC03_MODULE02\PDC03_MODULE02\obj\Debug\netstandard2.0\ref\PDC03_MODULE02.dll
