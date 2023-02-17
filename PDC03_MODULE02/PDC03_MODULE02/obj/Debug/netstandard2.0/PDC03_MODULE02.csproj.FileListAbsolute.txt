@@ -15,3 +15,5 @@ C:\Users\User\source\repos\PDC03_MODULE02\PDC03_MODULE02\PDC03_MODULE02\obj\Debu
 C:\Users\User\source\repos\PDC03_MODULE02\PDC03_MODULE02\PDC03_MODULE02\obj\Debug\netstandard2.0\refint\PDC03_MODULE02.dll
 C:\Users\User\source\repos\PDC03_MODULE02\PDC03_MODULE02\PDC03_MODULE02\obj\Debug\netstandard2.0\PDC03_MODULE02.pdb
 C:\Users\User\source\repos\PDC03_MODULE02\PDC03_MODULE02\PDC03_MODULE02\obj\Debug\netstandard2.0\ref\PDC03_MODULE02.dll
+C:\Users\User\source\repos\PDC03_MODULE02\PDC03_MODULE02\PDC03_MODULE02\obj\Debug\netstandard2.0\Activity3.xaml.g.cs
+C:\Users\User\source\repos\PDC03_MODULE02\PDC03_MODULE02\PDC03_MODULE02\obj\Debug\netstandard2.0\Activity4.xaml.g.cs

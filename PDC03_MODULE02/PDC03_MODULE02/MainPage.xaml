@@ -25,6 +25,7 @@
         <Button Text="Activity2" Clicked="OpenActivity2"></Button>
         <Button Text="Activity3" Clicked="OpenActivity3"></Button>
         <Button Text="Activity4" Clicked="OpenActivity4"></Button>
+        <Button Text="Activity5"></Button>
     </StackLayout>
 
 </ContentPage>
