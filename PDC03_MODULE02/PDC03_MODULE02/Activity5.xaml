@@ -4,11 +4,24 @@
              x:Class="PDC03_MODULE02.Activity5">
     <ContentPage.Content>
         <StackLayout>
-            
+
             <ListView x:Name="lst"
-                      ItemsSource="{Binding Employees}"
-                      IsPullToRefreshEnabled="True"
-                      RefreshControlColor="Red">
+                      ItemsSource="{Binding Employees}">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+
+                        <TextCell 
+                                  Text="{Binding DisplayName}" 
+                                  Detail="{Binding Position}"
+                                  TextColor="Blue"
+                                  DetailColor="Orange"/>
+
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+            <ListView x:Name="lst"
+                      ItemsSource="{Binding Employees}">
                 <ListView.ItemTemplate>
                     <DataTemplate>
 

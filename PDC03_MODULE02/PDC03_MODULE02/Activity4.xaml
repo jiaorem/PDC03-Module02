@@ -5,6 +5,18 @@
              Title="Activity4">
     <ContentPage.Content>
         <StackLayout>
+
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="3*"/>
+                    <ColumnDefinition Width="5*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="2*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+            </Grid>
+            
             <Label x:Name="txtLabel"
                    Text="WELCOME"
                    HorizontalOptions="Center"
